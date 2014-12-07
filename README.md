@@ -1,5 +1,5 @@
-# Programming (rus)
-===================
+Programming (rus)
+=================
 
 > Community chatter &amp; general programming / computer science discussion for Russian speakers
 
