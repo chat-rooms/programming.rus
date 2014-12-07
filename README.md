@@ -1,4 +1,7 @@
-programming.rus
-===============
+# Programming (rus)
+===================
 
-Community Chatter &amp; General Programming / Computer Science Discussion for Russian Speakers
+> Community chatter &amp; general programming / computer science discussion for Russian speakers
+
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/chat-rooms/programming.rus)
+
